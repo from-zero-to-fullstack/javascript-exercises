@@ -19,3 +19,9 @@ Today is Friday and it's 12:0:0 Noon o'clock
 ```
 Today is Wednesday and it's 12:0:0 Midnight o'clock
 ```
+
+# Execute tests
+
+```
+npm run test
+```
