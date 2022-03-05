@@ -11,8 +11,6 @@ Some exercises are covered with tests.
 
 # Technologies
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.javascript.com)
 - [NPM](https://www.npmjs.com)
 - [Jest](https://jestjs.io)
@@ -49,6 +47,12 @@ Open in Visual Studio Code
 
 ```bash
   npm install
+```
+
+## Execute tests
+
+```bash
+  npm run test
 ```
 
 # License
