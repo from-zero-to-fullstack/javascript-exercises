@@ -6,7 +6,8 @@ From zero to FullStack - an unofficial course led by [Pedro Soares](https://gith
 
 # Introduction
 
-This repository aims to create a calculator, made in vanilla JavaScript with unit tests and structured with HTML + CSS.
+This repository aims to contain diversified JavaScript exercises.
+Some exercises are covered with tests.
 
 # Technologies
 
