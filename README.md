@@ -13,6 +13,7 @@ This repository aims to create a calculator, made in vanilla JavaScript with uni
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.javascript.com)
+- [NPM](https://www.npmjs.com)
 - [Jest](https://jestjs.io)
 
 # Setup
@@ -41,6 +42,12 @@ Open in Visual Studio Code
 
 ```bash
   code .
+```
+
+## Install dependencies
+
+```bash
+  npm install
 ```
 
 # License
