@@ -1,6 +1,6 @@
 # Exercise
 
-Write a JavaScript program to display the current day and time in the format below 👇
+Write a JavaScript program to display the current weekday and time in the format below 👇
 
 ## Sample outputs
 
@@ -23,5 +23,5 @@ Today is Wednesday and it's 12:0:0 Midnight o'clock
 # Execute tests
 
 ```
-npm run test
+npm run test exercises/1.basic/1/1.test.js
 ```
