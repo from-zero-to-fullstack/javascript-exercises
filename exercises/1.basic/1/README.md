@@ -2,9 +2,20 @@
 
 Write a JavaScript program to display the current day and time in the format below 👇
 
-## Sample output
+## Sample outputs
 
 ```
-Today is Tuesday
-Current time: 10 PM : 30 : 38
+Today is Monday and it's 9:13:54 AM o'clock
+```
+
+```
+Today is Sunday and it's 4:45:16 PM o'clock
+```
+
+```
+Today is Friday and it's 12:0:0 Noon o'clock
+```
+
+```
+Today is Wednesday and it's 12:0:0 Midnight o'clock
 ```
